@@ -1,2 +1,3 @@
 
 We are creating a conflict.
+Conflict resolved with auto merge
