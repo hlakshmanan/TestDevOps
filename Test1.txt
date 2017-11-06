@@ -1,3 +1,5 @@
 
 We are creating a conflict.
 Conflict resolved with auto merge
+Create a conflict on same file from GUI.
+Manual merge done
